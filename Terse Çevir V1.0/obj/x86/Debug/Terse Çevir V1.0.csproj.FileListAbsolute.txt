@@ -1,0 +1,16 @@
+F:\04 - Yazılım\04 - Form Projeleri\29 Girilen İfadeyi Terse Çevir V1.0\Terse Çevir V1.0\obj\x86\Debug\Terse Çevir V1.0.exe
+F:\04 - Yazılım\04 - Form Projeleri\29 Girilen İfadeyi Terse Çevir V1.0\Terse Çevir V1.0\obj\x86\Debug\Terse Çevir V1.0.pdb
+F:\04 - Yazılım\04 - Form Projeleri\29 Girilen İfadeyi Terse Çevir V1.0\Terse Çevir V1.0\bin\Debug\Terse Çevir V1.0.exe
+F:\04 - Yazılım\04 - Form Projeleri\29 Girilen İfadeyi Terse Çevir V1.0\Terse Çevir V1.0\bin\Debug\Terse Çevir V1.0.pdb
+F:\04 - Yazılım\04 - Form Projeleri\29 Girilen İfadeyi Terse Çevir V1.0\Terse Çevir V1.0\obj\x86\Debug\Terse Çevir V1.0.csprojResolveAssemblyReference.cache
+F:\04 - Yazılım\04 - Form Projeleri\29 Girilen İfadeyi Terse Çevir V1.0\Terse Çevir V1.0\obj\x86\Debug\Terse_Çevir_V1._0.Form1.resources
+F:\04 - Yazılım\04 - Form Projeleri\29 Girilen İfadeyi Terse Çevir V1.0\Terse Çevir V1.0\obj\x86\Debug\Terse_Çevir_V1._0.Properties.Resources.resources
+F:\04 - Yazılım\04 - Form Projeleri\29 Girilen İfadeyi Terse Çevir V1.0\Terse Çevir V1.0\obj\x86\Debug\Terse Çevir V1.0.csproj.GenerateResource.Cache
+F:\04 - Yazılım\Yeni klasör\29 Girilen İfadeyi Terse Çevir V1.0\Terse Çevir V1.0\obj\x86\Debug\Terse Çevir V1.0.exe
+F:\04 - Yazılım\Yeni klasör\29 Girilen İfadeyi Terse Çevir V1.0\Terse Çevir V1.0\obj\x86\Debug\Terse Çevir V1.0.pdb
+F:\04 - Yazılım\Yeni klasör\29 Girilen İfadeyi Terse Çevir V1.0\Terse Çevir V1.0\bin\Debug\Terse Çevir V1.0.exe
+F:\04 - Yazılım\Yeni klasör\29 Girilen İfadeyi Terse Çevir V1.0\Terse Çevir V1.0\bin\Debug\Terse Çevir V1.0.pdb
+F:\04 - Yazılım\Yeni klasör\29 Girilen İfadeyi Terse Çevir V1.0\Terse Çevir V1.0\obj\x86\Debug\Terse Çevir V1.0.csprojResolveAssemblyReference.cache
+F:\04 - Yazılım\Yeni klasör\29 Girilen İfadeyi Terse Çevir V1.0\Terse Çevir V1.0\obj\x86\Debug\Terse_Çevir_V1._0.Form1.resources
+F:\04 - Yazılım\Yeni klasör\29 Girilen İfadeyi Terse Çevir V1.0\Terse Çevir V1.0\obj\x86\Debug\Terse_Çevir_V1._0.Properties.Resources.resources
+F:\04 - Yazılım\Yeni klasör\29 Girilen İfadeyi Terse Çevir V1.0\Terse Çevir V1.0\obj\x86\Debug\Terse Çevir V1.0.csproj.GenerateResource.Cache
